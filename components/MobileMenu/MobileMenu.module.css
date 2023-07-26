@@ -1,0 +1,3 @@
+.navbar-menu-mobile {
+    @apply lg:hidden inline-block text-2xl;
+  }

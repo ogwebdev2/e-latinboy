@@ -1,0 +1,11 @@
+.navbar-container {
+  @apply flex justify-between items-center p-4 h-20 bg-white shadow-sm  m-0;
+}
+
+.navbar-logo {
+  @apply m-0 w-[75%] lg:w-[350px] max-w-[250px] lg:max-w-none;
+}
+
+.navbar-links ul.navbar-list {
+  @apply hidden lg:p-0 lg:m-0 lg:list-none lg:flex lg:items-center lg:gap-8 lg:text-2xl;
+}
